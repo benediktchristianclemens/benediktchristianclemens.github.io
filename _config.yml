@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Benedikt Christian Clemens - Personal Website"
+title                    : "Benedikt Christian Clemens"
 title_separator          : "-"
 name                     : &name "Benedikt Christian Clemens"
 description              : &description "About Me - Benedikt Christian Clemens."
@@ -22,9 +22,9 @@ repository               : "benediktchristianclemens/benediktchristianclemens.gi
 author:
   # Biographic information
   avatar           : "testi.jpg" # Make sure you have this image in your assets or image folder
-  name             : "Benedikt Christian Clemens"
+  name             : ""
   pronouns         : "he/him"  
-  bio              : "Bionformatician"
+  bio              : "Biomedical Data Scientist"
   location         : "Bonn, Germany"
   employer         : "University Hospital Bonn"
   uri              : # "https://www.benediktchristianclemens.com" # Your personal website or leave blank
@@ -201,18 +201,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
-  publications:
-    output: false
-    permalink: /:collection/:path/
-  portfolio:
+  Code:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: false
+  CV:
+    output: true
     permalink: /:collection/:path/
+ # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: false
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
