@@ -1,7 +1,7 @@
 ---
 title: "My Publication Title"
-date: 2024-09-01
-description: "This is an embedded view of my PDF publication."
+excerpt: ""This is an embedded view of my PDF publication."<br/><src='/files/MMDD_13_structured.pdf'>"
+collection: portfolio
 ---
 
-<embed src="/files/MMDD_13_structured.pdf" width="800px" height="2100px" />
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
