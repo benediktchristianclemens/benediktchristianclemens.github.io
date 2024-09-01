@@ -21,7 +21,7 @@ repository               : "benediktchristianclemens/benediktchristianclemens.gi
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "testi.jpg" # Make sure you have this image in your assets or image folder
+  avatar           : "istockphoto-man.jpg" # Make sure you have this image in your assets or image folder
   name             : ""
   pronouns         : "he/him"  
   bio              : "Biomedical Data Scientist"
