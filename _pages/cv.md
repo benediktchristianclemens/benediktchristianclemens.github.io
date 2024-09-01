@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Bioinformatics, University of Bonn, 2023 - 2025 (expected)
+* M.Sc. in Life Science Informatics, University of Bonn, 2023 - 2025 (expected)
 * B.Sc. in Biology, University of Bonn, 2019-2023
 
 Work experience
@@ -41,4 +40,4 @@ Skills
 * Quantitative Mass Spectrometry
 * Scientific Writing and Communication
 
-[Download my full CV (PDF)](/files/your-cv.pdf)
+[Download my full CV (PDF)](/files/MMDD_13_structured.pdf)
