@@ -9,16 +9,13 @@ main:
     url: https://github.com/benediktchristianclemens
 
   - title: "Poster"
-    url: /Poster/    
-
-  - title: "Poster"
     url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
