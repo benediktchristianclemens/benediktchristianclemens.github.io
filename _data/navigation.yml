@@ -8,20 +8,20 @@ main:
   - title: "Code"
     url: https://github.com/benediktchristianclemens
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Poster"
+    url: /Poster/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
-    url: /cv/
+    url: /CV/    
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  # - title: "CV"
+  #   url: /cv/
+    
+  # - title: "Guide"
+  #   url: /markdown/
