@@ -201,6 +201,16 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+
+  Poster:
+    output: true
+    permalink: /:collection/:path/
+  CV:
+    output: true
+    permalink: /:collection/:path/
+  Code:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -270,7 +280,39 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+# _Poster
+  - scope:
+      path: ""
+      type: Poster
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _Code
+  - scope:
+      path: ""
+      type: Code
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _CV
+  - scope:
+      path: ""
+      type: CV
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 # Sass/SCSS
 sass:
