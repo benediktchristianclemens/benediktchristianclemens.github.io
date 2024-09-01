@@ -73,7 +73,7 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-    
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -201,7 +201,6 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -218,8 +217,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-
-  
   # _posts
   - scope:
       path: ""
