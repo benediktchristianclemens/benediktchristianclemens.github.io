@@ -207,6 +207,9 @@ collections:
   CV:
     output: true
     permalink: /:collection/:path/
+  Poster:
+      output: true
+      permalink: /:collection/:path/
  # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
@@ -217,6 +220,40 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+
+  # _Poster
+  - scope:
+      path: ""
+      type: Poster
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _Code
+  - scope:
+      path: ""
+      type: Code
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _CVe
+  - scope:
+      path: ""
+      type: CV
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _posts
   - scope:
       path: ""
