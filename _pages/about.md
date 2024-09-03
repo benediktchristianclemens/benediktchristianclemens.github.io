@@ -13,6 +13,3 @@ Parallel to my graduate studies, I work at one of Germany’s clusters of excell
 Prior to this, I completed my undergraduate degree in biology at the University of Bonn with two research stays at Massachusetts General Hospital (2021 and 2022), where I used mass spectrometry-based proteomics for early lung cancer detection. During my studies in Bonn, I worked with transgenic mouse models to study the role of cytoplasmic FMR1-interacting protein 1 (CYFIP1) in actin assembly in the brain and worked in a retirement home assisting residents suffering from neurodegenerative diseases.
 
 Outside of work, I enjoy being in nature, rock climbing, mountain biking, and traveling.
-
-### Contact Information
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benedikt-clemens-5b2913186/) or [GitHub](https://github.com/benediktchristianclemens). You can also reach out to me via email at [benedikt.c.clemens@gmail.com](mailto:benedikt.c.clemens@gmail.com).
