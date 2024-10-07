@@ -21,11 +21,11 @@ Work experience
 
 * June 2022 – Dec 2022: Bioinformatician
   * Massachusetts General Hospital
-  * Supervisor: Wilhelm Haas
+  * Supervisor: Prof. Wilhelm Haas
  
 * Oct 2021 – Dec 2021: Research Intern
   * Massachusetts General Hospital
-  * Supervisor: Wilhelm Haas
+  * Supervisor: Prof. Wilhelm Haas
  
 * June 2021 – July 2021: Research Intern
   * University of Bonn, Institute of Genetics
