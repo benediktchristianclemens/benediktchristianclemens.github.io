@@ -40,4 +40,4 @@ Skills
 * Quantitative Mass Spectrometry
 * Scientific Writing and Communication
 
-[Download my full CV (PDF)](/files/BenediktClemens_CV_2024_public.pdf)
+[Download my full CV (PDF)](/files/BenediktClemens_CV_CWC_public.pdf)
